@@ -5,11 +5,13 @@ description: ""
 category: 
 tags: []
 ---
-#Hello world!!
-##Test First Blog Contents
+Hello world!!
+=============
+Test First Blog Contents
+------------------------
 
 1.list 1
-  blah blah **bla*h* blah
+  blah blah **blah** blah
 
 2.list 2  
 {% highlight java %}  
@@ -32,8 +34,8 @@ public class HelloWorld {
   [google.com](http://www.google.com)
 
 5.list 5  
-  [comments][^cmt]
-***
+  [comments][^cmt]  
+***  
 [^cmt]:comments test
 
 {% include JB/setup %}
