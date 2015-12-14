@@ -38,6 +38,6 @@ public class HelloWorld {
 5.list 5  
   [comments][^cmt]  
 ***  
-[^cmt]:comments test
+[cmt]: comments test
 
 {% include JB/setup %}
