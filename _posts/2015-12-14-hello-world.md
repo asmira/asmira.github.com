@@ -12,7 +12,7 @@ tags: []
   blah blah **bla*h* blah
 
 2.list 2  
-{% highlight java &}  
+{% highlight java %}  
 public class HelloWorld {
 
     public HelloWorld(){}
