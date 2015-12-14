@@ -12,7 +12,7 @@ tags: []
   blah blah **bla*h* blah
 
 2.list 2
-{% highlight java &}
+{% highlight java &}  
 public class HelloWorld {
 
     public HelloWorld(){}
@@ -20,7 +20,7 @@ public class HelloWorld {
     public static void main(String[] args){
 	System.out.println("Hello world!");
     }
-}
+}  
 {% endhighlight %}
 
 3.list 3
