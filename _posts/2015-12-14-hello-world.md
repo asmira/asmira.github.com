@@ -28,10 +28,10 @@ public class HelloWorld {
   * sublist2
   * sublist3
 
-4.list 4
+4.list 4  
   [google.com](http://www.google.com)
 
-5.list 5
+5.list 5  
   [comments][^cmt]
 ***
 [^cmt]:comments test
