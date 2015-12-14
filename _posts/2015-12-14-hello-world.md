@@ -36,8 +36,8 @@ public class HelloWorld {
   [google.com](http://www.google.com)
 
 5.list 5  
-  [comments][^cmt]  
+  **comments**[^cmt]  
 ***  
-[cmt]: comments test
+[^cmt]: comments test
 
 {% include JB/setup %}
